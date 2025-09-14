@@ -6,4 +6,3 @@ patcher-args = "-e 'Spoof client' -Oclient-id=9r9AUm0maHurYsl4nfb1PA"
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "module"
-excluded-patches = "'GmsCore support'"
